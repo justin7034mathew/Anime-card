@@ -1,0 +1,23 @@
+.navbar {
+    display: flex;
+    background-color: #e95555;
+    justify-content: center;
+}
+
+.navbar-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar-wrapper h2 {
+    font-weight: bold;
+    color: aliceblue;
+    font-size: 3rem;
+}
+
+.collapse {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

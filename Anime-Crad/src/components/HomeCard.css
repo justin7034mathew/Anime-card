@@ -1,0 +1,30 @@
+.card-wrapper {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.card-first {
+    width: 18rem;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+.card-title {
+    color: red;
+}
+
+.card-second {
+    display: flex;
+    flex-direction: column;
+    width: 18rem;
+    padding: 40px;
+}
+
+.card-third {
+    display: flex;
+    flex-direction: column;
+    width: 18rem;
+    padding: 40px;
+}
